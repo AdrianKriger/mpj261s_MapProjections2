@@ -1,4 +1,4 @@
-# Map Projections (MPJ261S) 
+# Map Projections 2  (MPJ261S) 
 
 ~ Assignment 3: *Projecting Fun!*  
 The [Assignment3_q4-q5.ipynb](https://github.com/AdrianKriger/mpj261s_MapProjections2/blob/main/Assignment3_q4-q5.ipynb) notebook will create, and reproduce, the answers (drawings)  for Questions 4 and 5.
