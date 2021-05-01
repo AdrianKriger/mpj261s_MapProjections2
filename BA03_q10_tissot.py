@@ -9,13 +9,11 @@ answer to Question 10  and 11 of Basic Assignment 3
 """
 
 import matplotlib.pyplot as plt
-#import cartopy
 import cartopy.crs as ccrs
 
 def plot_tissot(ax, **kwargs):
     ax.set_global()
     ax.stock_img()
-    ax.coastlines()
     ax.tissot(facecolor='orange', alpha=0.5)
    
 fig = plt.figure(figsize=(14, 8))
