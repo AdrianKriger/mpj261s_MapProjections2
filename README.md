@@ -9,6 +9,9 @@ The [Assignment3_q4-q5.ipynb](https://github.com/AdrianKriger/mpj261s_MapProject
 ~ Basic Assignment 4: *11 Questions!*  
 [BA04_q3_YoungsRule.ipynb](https://github.com/AdrianKriger/mpj261s_MapProjections2/blob/main/BA04_q3_YoungsRule.ipynb) will create, and reproduce, the figures used in Question 3.
 
+~ Major Assignment 2: *CRS's!*  
+[MA02.ipynb](https://github.com/AdrianKriger/mpj261s_MapProjections2/blob/main/MA02.ipynb) will create, and reproduce, the figures.
+
 Cape Peninsula University of Technology  
 Engineering and the Built Environment  
 Geomatics
